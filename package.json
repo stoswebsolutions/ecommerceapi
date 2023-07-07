@@ -4,7 +4,7 @@
   "description": "ECommerce API",
   "main": "ecommerce.js",
   "scripts": {
-    "test": "start"
+    "start": "nodemon ecommerce.js"
   },
   "author": "S2S Web Solutions",
   "license": "MIT",
